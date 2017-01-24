@@ -18,9 +18,7 @@ B- Type Powershell.exe
 
 C- Power Shell  will be open.
 
-D- write this    C:\users>$env: TEXT_TO_SEARCH = "Rean"       press Enter
-
-E- C:\users>$env: TEST_URL = "http://www.reancloud.com"       press Enter
+D- C:\users>$env: TEST_URL = "https://54.89.102.77"       press Enter
 
 Note : Make sure you didn't get any error while pressed enter.
 
